@@ -4,11 +4,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: lightblue;
+  background: rgb(148, 183, 195);
 }
 
 .login-box {
-  background: white;
+  background: #e4a5a5;
   padding: 20px;
   border-radius: 10px;
 }
